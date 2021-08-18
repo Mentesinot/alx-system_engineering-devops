@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -asortm
+ls -a -x -m
