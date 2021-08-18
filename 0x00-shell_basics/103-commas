@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -sortma
+ls -asortm
